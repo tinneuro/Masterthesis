@@ -1,5 +1,5 @@
 # Masterthesis
-This repo provides code used for the thesis and datasets for additive and multiplicative noise model. Furthermore 3 videos of different regimes of the nullclines in 3D space generated with MAPLE are provided.
+This repo provides code used for the thesis and datasets for additive and multiplicative noise model. Furthermore 3 videos of different regimes of the nullclines in 3D space generated with MAPLE are provided. For a stored timeseries of a 3D simulation please contact me as the dataset is too large to upload it.
 
 Data:\
 The data for the 2D Model was generated using the Code "2D Model Grid Simulation.ipynb".\
